@@ -29,6 +29,6 @@
 
 1. [Begin CTFing](https://medium.com/@inblid/begin-ctfing-taking-your-first-steps-in-digital-forensics-f19a8c6accb4)
 
-1. [Good CTF](https://hatsoffsecurity.com/2020/05/27/how-to-create-a-good-security-ctf/)
+1. [How to Create a Good Security CTF](https://hatsoffsecurity.com/2020/05/27/how-to-create-a-good-security-ctf/)
 
 1. [What is CTF and how to get started!](https://dev.to/atan/what-is-ctf-and-how-to-get-started-3f04)
